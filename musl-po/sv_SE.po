@@ -478,25 +478,25 @@ msgid "Sat"
 msgstr "lör"
 
 msgid "Sunday"
-msgstr "söndag"
+msgstr "Söndag"
 
 msgid "Monday"
-msgstr "måndag"
+msgstr "Måndag"
 
 msgid "Tuesday"
-msgstr "tisdag"
+msgstr "Tisdag"
 
 msgid "Wednesday"
-msgstr "onsdag"
+msgstr "Onsdag"
 
 msgid "Thursday"
-msgstr "torsdag"
+msgstr "Torsdag"
 
 msgid "Friday"
-msgstr "fredag"
+msgstr "Fredag"
 
 msgid "Saturday"
-msgstr "lördag"
+msgstr "Lördag"
 
 msgid "Jan"
 msgstr "jan"
