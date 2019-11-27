@@ -57,25 +57,25 @@ msgid "Sat"
 msgstr "lör"
 
 msgid "Sunday"
-msgstr "Söndag"
+msgstr "söndag"
 
 msgid "Monday"
-msgstr "Måndag"
+msgstr "måndag"
 
 msgid "Tuesday"
-msgstr "Tisdag"
+msgstr "tisdag"
 
 msgid "Wednesday"
-msgstr "Onsdag"
+msgstr "onsdag"
 
 msgid "Thursday"
-msgstr "Torsdag"
+msgstr "torsdag"
 
 msgid "Friday"
-msgstr "Fredag"
+msgstr "fredag"
 
 msgid "Saturday"
-msgstr "Lördag"
+msgstr "lördag"
 
 msgid "Jan"
 msgstr "jan"
