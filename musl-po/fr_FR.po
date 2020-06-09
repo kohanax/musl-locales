@@ -499,13 +499,13 @@ msgid "Saturday"
 msgstr "Samedi"
 
 msgid "Jan"
-msgstr ""
+msgstr "Jan"
 
 msgid "Feb"
-msgstr "Fev"
+msgstr "Fév"
 
 msgid "Mar"
-msgstr ""
+msgstr "Mar"
 
 msgid "Apr"
 msgstr "Avr"
@@ -514,25 +514,25 @@ msgid "May"
 msgstr "Mai"
 
 msgid "Jun"
-msgstr ""
+msgstr "Jui"
 
 msgid "Jul"
-msgstr ""
+msgstr "Jul"
 
 msgid "Aug"
 msgstr "Aou"
 
 msgid "Sep"
-msgstr ""
+msgstr "Sep"
 
 msgid "Oct"
-msgstr ""
+msgstr "Oct"
 
 msgid "Nov"
-msgstr ""
+msgstr "Nov"
 
 msgid "Dec"
-msgstr ""
+msgstr "Déc"
 
 msgid "January"
 msgstr "Janvier"
