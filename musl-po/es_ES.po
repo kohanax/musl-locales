@@ -499,73 +499,76 @@ msgid "Saturday"
 msgstr "sabado"
 
 msgid "Jan"
-msgstr "en"
+msgstr "Ene"
 
 msgid "Feb"
-msgstr "feb"
+msgstr "Feb"
 
 msgid "Mar"
-msgstr "mar"
+msgstr "Mar"
 
 msgid "Apr"
-msgstr "abr"
+msgstr "Abr"
 
 msgid "May"
-msgstr "may"
+msgstr "May"
 
 msgid "Jun"
-msgstr "jun"
+msgstr "Jun"
 
 msgid "Jul"
-msgstr "jul"
+msgstr "Jul"
 
 msgid "Aug"
-msgstr "aug"
+msgstr "Ago"
 
 msgid "Sep"
-msgstr "sep"
+msgstr "Sep"
 
 msgid "Oct"
-msgstr "oct"
+msgstr "Oct"
 
 msgid "Nov"
-msgstr "nov"
+msgstr "Nov"
 
 msgid "Dec"
-msgstr "dec"
+msgstr "Dec"
 
 msgid "January"
-msgstr "enero"
+msgstr "Enero"
 
 msgid "February"
-msgstr "febrero"
+msgstr "Febrero"
 
 msgid "March"
-msgstr "marzo"
+msgstr "Marzo"
 
 msgid "April"
-msgstr "abril"
+msgstr "Abril"
+
+msgid "May"
+msgstr "Mayo"
 
 msgid "June"
-msgstr "junio"
+msgstr "Junio"
 
 msgid "July"
-msgstr "julio"
+msgstr "Julio"
 
 msgid "August"
-msgstr "augosto"
+msgstr "Agosto"
 
 msgid "September"
-msgstr "septiembre"
+msgstr "Septiembre"
 
 msgid "October"
-msgstr "octubre"
+msgstr "Octubre"
 
 msgid "November"
-msgstr "noviembre"
+msgstr "Noviembre"
 
 msgid "December"
-msgstr "diciembre"
+msgstr "Diciembre"
 
 msgid "AM"
 msgstr ""
