@@ -510,9 +510,6 @@ msgstr "mar"
 msgid "Apr"
 msgstr "abr"
 
-msgid "May"
-msgstr "may"
-
 msgid "Jun"
 msgstr "jun"
 
@@ -520,7 +517,7 @@ msgid "Jul"
 msgstr "jul"
 
 msgid "Aug"
-msgstr "aug"
+msgstr "ago"
 
 msgid "Sep"
 msgstr "sep"
@@ -535,37 +532,40 @@ msgid "Dec"
 msgstr "dec"
 
 msgid "January"
-msgstr "enero"
+msgstr "Enero"
 
 msgid "February"
-msgstr "febrero"
+msgstr "Febrero"
 
 msgid "March"
-msgstr "marzo"
+msgstr "Marzo"
 
 msgid "April"
-msgstr "abril"
+msgstr "Abril"
+
+msgid "May"
+msgstr "Mayo"
 
 msgid "June"
-msgstr "junio"
+msgstr "Junio"
 
 msgid "July"
-msgstr "julio"
+msgstr "Julio"
 
 msgid "August"
-msgstr "augosto"
+msgstr "Agosto"
 
 msgid "September"
-msgstr "septiembre"
+msgstr "Septiembre"
 
 msgid "October"
-msgstr "octubre"
+msgstr "Octubre"
 
 msgid "November"
-msgstr "noviembre"
+msgstr "Noviembre"
 
 msgid "December"
-msgstr "diciembre"
+msgstr "Diciembre"
 
 msgid "AM"
 msgstr ""
