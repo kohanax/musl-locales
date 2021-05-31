@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-05-31 15:45+0200\n"
+"PO-Revision-Date: 2021-05-31 19:52+0200\n"
 "Last-Translator: Страхиња Радић <contact@strahinja.org>\n"
 "Language-Team: Serbian <sr@li.org>\n"
 "Language: sr\n"
@@ -172,12 +172,11 @@ msgid "Invalid flags"
 msgstr "Неисправне заставице"
 
 #: ../musl/musl-1.1.14/src/time/strftime.c:89
-#, fuzzy, c-format
+#, c-format
 msgid "%2d"
 msgstr "%2d"
 
 #: ../musl/musl-1.1.14/src/time/strftime.c:92
-#, fuzzy
 msgid "%Y-%m-%d"
 msgstr "%Y-%m-%d"
 
@@ -186,17 +185,17 @@ msgid "\t"
 msgstr "\t"
 
 #: ../musl/musl-1.1.14/src/time/strftime.c:174
-#, fuzzy, c-format
+#, c-format
 msgid "+%lld"
 msgstr "+%lld"
 
 #: ../musl/musl-1.1.14/src/time/strftime.c:184
-#, fuzzy, c-format
+#, c-format
 msgid "%+.2d%.2d"
 msgstr "%+.2d%.2d"
 
 #: ../musl/musl-1.1.14/src/time/strftime.c:202
-#, fuzzy, c-format
+#, c-format
 msgid "%0*lld"
 msgstr "%0*lld"
 
@@ -362,7 +361,6 @@ msgstr "Уређај није ток"
 msgid "No data available"
 msgstr "Нема доступних података"
 
-#, fuzzy
 msgid "Device timeout"
 msgstr "Тајмаут уређаја"
 
@@ -579,7 +577,6 @@ msgstr "AM"
 msgid "PM"
 msgstr "PM"
 
-#, fuzzy
 msgid "%a %b %e %T %Y"
 msgstr "%a %b %e %T %Y"
 
@@ -598,14 +595,12 @@ msgstr "%H:%M"
 msgid "%H:%M:%S"
 msgstr "%H:%M:%S"
 
-#, fuzzy
 msgid "%I:%M:%S %p"
 msgstr "%I:%M:%S %p"
 
 msgid "0123456789"
 msgstr "0123456789"
 
-#, fuzzy
 msgid "%a %b %e %T %Y %Z"
 msgstr "%a %b %e %T %Y %Z"
 
@@ -621,7 +616,6 @@ msgstr "да"
 msgid "no"
 msgstr "не"
 
-#, fuzzy
 msgid "."
 msgstr "."
 
@@ -667,9 +661,8 @@ msgstr "Непознат назив класе знакова"
 msgid "Trailing backslash"
 msgstr "Обрнута коса црта на крају"
 
-#, fuzzy
 msgid "Invalid back reference"
-msgstr "Неисправна back референца"
+msgstr "Неисправна повратна референца"
 
 msgid "Missing ']'"
 msgstr "Недостаје „]“"
@@ -707,7 +700,6 @@ msgstr "Клопка праћења/тачке прекида"
 msgid "Aborted"
 msgstr "Прекинуто"
 
-#, fuzzy
 msgid "Bus error"
 msgstr "Грешка bus-а"
 
