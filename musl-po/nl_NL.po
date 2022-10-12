@@ -505,7 +505,7 @@ msgid "Feb"
 msgstr "feb"
 
 msgid "Mar"
-msgstr "maa"
+msgstr "mrt"
 
 msgid "Apr"
 msgstr "apr"
